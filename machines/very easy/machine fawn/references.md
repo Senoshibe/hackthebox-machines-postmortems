@@ -1,0 +1,3 @@
+#HackTheBox documentation on Fawn machine
+
+>https://htb-content-prod-private-storage.s3.eu-central-1.amazonaws.com/machines/writeup/9e4d90d2-2466-45d9-84c2-40ce19af2c77.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA47CRVXI3GZ5T5FNV%2F20260901%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260901T143318Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=41a1bc85befddfefdfca9ce367fc39459452d434133da00318755005cd48a5cb
