@@ -1,0 +1,15 @@
+# Keyspace
+db0:keys=4,expires=0,avg_ttl=0
+10.129.136.187:6379> selec 0
+(error) ERR unknown command `selec`, with args beginning with: `0`, 
+10.129.136.187:6379> select 0
+OK
+10.129.136.187:6379> keys *
+1) "numb"
+2) "temp"
+3) "stor"
+4) "flag"
+10.129.136.187:6379> get numb
+"bb2c8a7506ee45cc981eb88bb81dddab"
+10.129.136.187:6379> get flag
+"03e1d2b376c37ab3f5319922053953eb"

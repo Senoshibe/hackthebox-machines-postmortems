@@ -1,10 +1,10 @@
 ---
-name: [name of the machine]
-difficulty: [very-easy, easy, medium]
-ip: [IP address of the machine]
-status: [in-progress, rooted]
+name: redeemer
+difficulty: very-easy
+ip: 10.129.136.187
+status: rooted
 type: [retired, active]
-date_started: [YYYY-MM-DD]
-date_rooted: [YYYY-MM-DD]
-tags: [linux, windows, very-easy, easy, medium]
+date_started: 2026-09-02 22:30
+date_rooted: 
+tags: linux, very-easy
 ---
