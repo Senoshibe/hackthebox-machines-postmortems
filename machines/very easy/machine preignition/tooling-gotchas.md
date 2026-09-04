@@ -1,0 +1,1 @@
+Another interesting thing to note is, in manpage for gobuster it says the flag for finding .php pages is -x .php, whereas on google it's -x php
